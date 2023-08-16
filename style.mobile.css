@@ -22,7 +22,8 @@ header ul {
 
 .welcome-item h2 {
   font-size: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 0.5rem;
+  margin-top: 3.5rem;
 }
 
 .welcome-item h3 {

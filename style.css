@@ -35,9 +35,9 @@ nav {
 }
 
 strong {
-  font-size: 35px;
-  color: rgb(227, 152, 152);
-  font-size: 50px;
+  font-size: 25px;
+  color: rgb(140, 111, 111);
+  font-size: 45px;
   font-family: 'Merienda', cursive;
 }
 
@@ -91,7 +91,7 @@ header ul li a:hover {
 
 .vp-welcome {
   background: url(./images/img003.jpg) center center/cover;
-  height: 120vh;
+  height: 100vh;
   text-align: center;
   color: white;
 
@@ -104,8 +104,8 @@ header ul li a:hover {
 
 
 .welcome-item h2 {
-  font-size: 40px;
-  padding: 0px 200px 0px 200px;
+  font-size: 30px;
+  color: #ddd;
 }
 
 
