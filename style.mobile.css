@@ -1,0 +1,50 @@
+header {
+  display: flex;
+  flex-direction: column;
+
+}
+
+header ul {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.vp-logo {
+  padding: 0.5rem;
+}
+
+.vp-container ul li {
+  padding: 6px;
+}
+
+/************************ Section 2 ***************************/
+
+.welcome-item h2 {
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}
+
+.welcome-item h3 {
+  font-size: 0.9rem;
+  margin: 0px 50px;
+
+}
+
+/************************ Section 3 ***************************/
+
+.offer {
+  padding: 50px 15px 50px 15px;
+}
+
+.title {
+  font-size: 1.5rem;
+}
+
+.offer-list {
+
+  display: flex;
+  flex-direction: column;
+
+
+}
