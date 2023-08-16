@@ -49,3 +49,10 @@ header ul {
 
 
 }
+
+/************************* info **********/
+
+.info {
+  display: flex;
+  flex-direction: column;
+}
