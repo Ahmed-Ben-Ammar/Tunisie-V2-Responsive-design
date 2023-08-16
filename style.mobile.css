@@ -56,3 +56,10 @@ header ul {
   display: flex;
   flex-direction: column;
 }
+
+/******************* Contact **************/
+
+.contact {
+  padding: 2rem 1rem;
+  text-align: center;
+}
