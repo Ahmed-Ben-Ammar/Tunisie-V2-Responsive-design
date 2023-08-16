@@ -29,6 +29,10 @@ a {
 
 }
 
+ul {
+  list-style: none;
+}
+
 nav {
   background-color: black;
 
@@ -221,6 +225,11 @@ header ul li a:hover {
   background: #333;
 }
 
+.contact-form h2 {
+  color: white;
+  text-align: center;
+}
+
 .contact-form {
   max-width: 600px;
   display: flex;
@@ -262,4 +271,3 @@ footer {
   font-size: 15px;
   color: rgb(34, 100, 100);
 }
-
