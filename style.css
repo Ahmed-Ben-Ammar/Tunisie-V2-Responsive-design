@@ -116,12 +116,12 @@ header ul li a:hover {
 
 .welcome-item a {
   padding: 5px 20px;
-  border-radius: 15px;
+  border-radius: 100px;
   border: 1px solid;
   background-color: white;
   color: black;
-  font-family: FordAntennaCond, sans-serif;
-  font-size: 1.4rem;
+  font-family: "Long Cang", cursive;
+  font-size: 1.1rem;
 }
 
 .welcome-item a:hover {
@@ -140,13 +140,15 @@ header ul li a:hover {
   font-weight: 400;
   font-size: 2rem;
   margin-bottom: 2rem;
+  font-family: "Long Cang", cursive;
 
 }
 
 .offer {
 
   background-color: #EEEEEE;
-  padding: 90px 15px 90px 15px;
+  padding: 40px 15px 40px 15px;
+
 
 }
 
@@ -154,6 +156,7 @@ header ul li a:hover {
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
+
 
 }
 
@@ -175,8 +178,10 @@ header ul li a:hover {
 .offer-elem-text {
   text-align: center;
   padding: 2rem;
+
 }
 
 .offer-item-liste p {
-  font-size: 20px;
+  font-size: 15px;
+  font-family: "Long Cang", cursive;
 }
