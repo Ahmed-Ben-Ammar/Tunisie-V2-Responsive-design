@@ -56,7 +56,6 @@ header {
   line-height: 1.8rem;
   flex-flow: row nowrap;
   justify-content: space-between;
-
   width: 100%;
 
 }
@@ -70,6 +69,8 @@ header ul {
 
 header a {
   color: white;
+  font-family: "Long Cang", cursive;
+  font-size: 18px;
 }
 
 header ul li {
@@ -78,6 +79,9 @@ header ul li {
 
 header ul li a:hover {
   color: rgb(144, 68, 68);
+  text-shadow: 5 -9px 0 rgba(152, 196, 113, 0.25);
+
+
 }
 
 
@@ -90,6 +94,9 @@ header ul li a:hover {
   flex-flow: row nowrap;
 }
 
+.tun {
+  font-size: 25px;
+}
 
 /*********************** Welcome *****************/
 
@@ -270,4 +277,19 @@ footer {
 .B-A-A {
   font-size: 15px;
   color: rgb(34, 100, 100);
+}
+
+.connect i {
+  padding: 0px 8px;
+}
+
+.connect {
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 0px 10px;
+  background: white;
+}
+
+.conn {
+  color: #333;
 }
