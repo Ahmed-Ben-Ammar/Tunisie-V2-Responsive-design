@@ -288,6 +288,7 @@ footer {
   border-radius: 10px;
   padding: 0px 10px;
   background: white;
+  cursor: pointer;
 }
 
 .conn {
