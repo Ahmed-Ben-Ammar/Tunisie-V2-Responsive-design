@@ -315,3 +315,24 @@ footer {
   padding: 0px 20px;
   cursor: pointer;
 }
+
+
+.fcb {
+  color: rgb(39, 39, 224);
+}
+
+.twitter {
+  color: rgb(75, 75, 196);
+}
+
+.youtube {
+  color: red;
+}
+
+.inst {
+  color: rgb(199, 33, 152);
+}
+
+.linkedin{
+  color: blue;
+}
