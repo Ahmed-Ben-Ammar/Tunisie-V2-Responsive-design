@@ -68,3 +68,9 @@ header ul {
 .contact-form h2 {
   text-align: center;
 }
+
+/*********** a propos ***********/
+
+.apropos-content {
+  justify-content: center;
+}
